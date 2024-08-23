@@ -34,3 +34,12 @@ footer {
     width: 100%;
     bottom: 0;
 }
+li{
+    color:red;
+    background-color: antiquewhite;
+    font-size: 25px;
+    margin-top: 10px;
+}
+#momoyama{
+    color:#b94047;
+}
